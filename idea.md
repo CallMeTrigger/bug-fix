@@ -3,6 +3,6 @@
 
 **解决办法:**
 
--1.生成.iml文件:mvn idea:module
--2.生成.ipr文件: mvn idea:project
--3.生成.iws文件: mvn idea:workspace
+1. 生成.iml文件:mvn idea:module
+2. 生成.ipr文件: mvn idea:project
+3. 生成.iws文件: mvn idea:workspace
