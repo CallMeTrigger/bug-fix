@@ -1,5 +1,5 @@
-**Git 全局设置**
-git config --global user.name "Trigger"
+**Git 全局设置**  
+git config --global user.name "Trigger"  
 git config --global user.email "275750245@qq.com"
 ---
 **创建一个新仓库**
